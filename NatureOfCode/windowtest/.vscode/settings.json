@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\mhoffma\\Downloads\\Unfolding\\library\\json4processing.jar",
+        "c:\\Users\\mhoffma\\Downloads\\Unfolding\\library\\log4j-1.2.15.jar",
+        "c:\\Users\\mhoffma\\Downloads\\Unfolding\\library\\Unfolding.jar",
+        "c:\\Users\\mhoffma\\Downloads\\processing-3.5.4\\core\\library\\core.jar"
+    ]
+}
