@@ -1,0 +1,4 @@
+#MeoMap configuartion file. This file contains the filepaths required for the MeoMap
+current = C:\\Users\\mhoffma\\Documents\\Project\\current\\
+coordinates = C:\\Users\\mhoffma\\Documents\\Project\\COORDINATES
+central_config = C:\\Users\\mhoffma\\Documents\\Project\\O3B_central_config.txt
